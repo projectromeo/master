@@ -1,0 +1,5 @@
+about compilation:
+https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html
+https://msdn.microsoft.com/en-us/library/fwkeyyhe.aspx (compiler options for vcc compiler)
+https://msdn.microsoft.com/en-us/library/bb384838.aspx (how to build using vcc walkthrough)
+https://cognitivewaves.wordpress.com/makefiles/
